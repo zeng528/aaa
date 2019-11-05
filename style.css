@@ -1,0 +1,47 @@
+body{
+	background:#555555;
+}
+
+
+div{
+	border:1px solid #000;
+	background:#FFF;
+	width:1200px;
+	text-align:center;
+	height:550px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform:translate(-50%,-50%);
+}
+
+table 
+{
+	font-family: Arial;
+    width:40%;
+	position:fixed; 
+	right:100px; 
+	top:150px;
+}
+th
+{
+    height:40px;
+}
+.t2
+{
+	font-size:2em;
+}
+h1
+{
+	font-style:italic;
+	font-size:10em;
+	position:fixed;
+	left:100px;
+	top:150px;
+}	
+embed
+{
+	position:fixed; 
+	left:100px; 
+	top:40px;
+}
